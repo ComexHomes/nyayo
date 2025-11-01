@@ -36,7 +36,7 @@ function Enquirestripnyayo() {
       <div className="btn-area">
         <div className="place">
           <Link
-            href="https://forms.zohopublic.com/nyayoviewsuites/form/RegisterInterest/formperma/nE9a0VzmSr9TFMS2IdjK1ck6vIUwdrYcxZJD2jOhHZw"
+            href="https://zfrmz.com/63qeS4QHxcWIQdgr1NB3"
             target="_blank"
           >
             <button className="btn">register interest</button>
